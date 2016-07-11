@@ -1,0 +1,31 @@
+{
+  "name": "qiongyoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxsmu/qiongyoo.git"
+  },
+  "author": "maxsmu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsmu/qiongyoo/issues"
+  },
+  "homepage": "https://github.com/maxsmu/qiongyoo",
+  "dependencies": {
+    "react": "^15.2.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-devtools": "^3.3.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

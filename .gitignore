@@ -1,0 +1,6 @@
+_gh_pages/
+.sass-cache/
+node_modules
+.idea
+.DS_Store
+dist/
